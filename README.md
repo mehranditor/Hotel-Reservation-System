@@ -52,7 +52,7 @@ M:M Relationship:Reservations can have multiple associated services and services
 
 # Triggers ve views
 
-In our project, triggers are used to automatically send notifications based on specific events (like service requests and reservation status updates), while views simplify data retrieval by presenting complex queries as virtual tables and make it easier to access and analyze information such as reservation summaries. and room details. 
+In our project, triggers are used to automatically send notifications based on specific events (like service requests and reservation status updates), while views simplify data retrieval by presenting complex queries as virtual tables and make it easier to access and analyze information such as reservation summaries. and room details.  
 
 
  
