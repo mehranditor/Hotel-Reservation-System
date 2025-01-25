@@ -25,7 +25,7 @@ Promotions and Special Offers: View relevant promotions and special offers durin
 Payment Integration: Manage payments for reservations, including failed transactions and status updates
 
 
-# 2-Admin features
+# 2-Admin features  
 
 Notifications: Receive real-time notifications about new reservations, cancellations, low ratings and special requests.
 
