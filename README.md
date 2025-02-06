@@ -12,7 +12,7 @@ Integration between different components such as reservation management, payment
    
 
 2-Admin Features  
- 
+  
 
 # 1-User Features
 
