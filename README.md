@@ -14,7 +14,7 @@ Integration between different components such as reservation management, payment
 2-Admin Features  
    
 
-# 1-User Features
+# 1-User Features 
 
 Reservation Management: Customers can make reservations, select rooms and review reservation status.
  
