@@ -17,7 +17,7 @@ Integration between different components such as reservation management, payment
 # 1-User Features 
 
 Reservation Management: Customers can make reservations, select rooms and review reservation status.
- 
+  
 Review System: Customers can leave reviews for rooms after their stay, which helps other customers make informed decisions
 
 Promotions and Special Offers: View relevant promotions and special offers during the booking process
